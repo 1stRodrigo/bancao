@@ -1,5 +1,7 @@
 # Criando conta no Banco
 
+<img src="assets/bancaoApp.gif">
+
 <p>
   <!-- iOS -->Baixe o `Expo Go` para rodar o aplicativo no celular
   <a href="https://itunes.apple.com/app/apple-store/id982107779">
