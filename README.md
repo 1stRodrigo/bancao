@@ -1,4 +1,4 @@
-# Criando conta no Banco
+# Criando conta no Banco (React Native usando EXPO Cli) 
 
 <img src="assets/bancaoApp.gif" width="200">
 
